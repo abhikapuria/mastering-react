@@ -6,9 +6,6 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
-const API_KEY_NAME = "YouTube";
-const API_KEY = "AIzaSyAS2ZV3polqi-EN0L4zy2_DA-cKcCncNvM";
-
 
 // Create a new component.
 // This component should produce some HTML
